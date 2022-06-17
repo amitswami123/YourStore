@@ -14,7 +14,7 @@ function App() {
   
   return (
     <>
-    <Router basename="/YourStore>
+    <Router basename="/YourStore">
     
     
     <Routes>
